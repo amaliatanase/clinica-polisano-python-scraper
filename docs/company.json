@@ -1,0 +1,17 @@
+{
+  "id": "15888756",
+  "company": "CLINICA POLISANO SRL",
+  "brand": "POLISANO",
+  "status": "activ",
+  "location": [
+    "Sibiu"
+  ],
+  "website": [
+    "https://www.clinicapolisano.ro"
+  ],
+  "career": [
+    "https://www.clinicapolisano.ro/cariere/"
+  ],
+  "scraperFile": "https://github.com/peviitor-scrapers/clinica-polisano-python-scraper/actions/workflows/scrape.yml",
+  "ownJobUrlPrefix": "https://www.clinicapolisano.ro/cariere/"
+}

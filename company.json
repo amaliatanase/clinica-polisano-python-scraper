@@ -1,0 +1,67 @@
+{
+  "validatedAt": "2026-10-14T10:35:08.952026+00:00",
+  "source": "ANAF",
+  "brand": "POLISANO",
+  "anaf": {
+    "cui": 15888756,
+    "name": "CLINICA POLISANO SRL",
+    "address": "JUD. SIBIU, MUN. SIBIU, STR. CONSTITUŢIEI, BL.24",
+    "registrationNumber": "J2003001441324",
+    "phone": "0269210384",
+    "fax": "",
+    "postalCode": "550253",
+    "caenCode": "8622",
+    "iban": "",
+    "registrationState": "INREGISTRAT din data 10.11.2003",
+    "registrationDate": "2003-11-11",
+    "fiscalAuthority": "Administraţia Fiscală pentru Contribuabili Mijlocii - Sibiu",
+    "ownershipForm": "PROPR.PRIVATA-CAPITAL PRIVAT AUTOHTON",
+    "organizationForm": "PERSOANA JURIDICA",
+    "legalForm": "SOCIETATE COMERCIALĂ CU RĂSPUNDERE LIMITATĂ",
+    "vatRegistered": true,
+    "vatPeriods": [
+      {
+        "start": "2015-01-01",
+        "end": null,
+        "yearStart": "",
+        "message": ""
+      }
+    ],
+    "cashBasisVat": false,
+    "cashBasisVatStart": null,
+    "cashBasisVatEnd": null,
+    "inactive": false,
+    "inactiveSince": null,
+    "reactivatedSince": null,
+    "splitVat": false,
+    "eFacturaRegistered": false,
+    "headquartersAddress": {
+      "street": "Str. Constituţiei",
+      "number": "",
+      "locality": "Mun. Sibiu",
+      "county": "SIBIU",
+      "country": "",
+      "postalCode": "550253"
+    },
+    "fiscalAddress": {
+      "street": "",
+      "number": "",
+      "locality": "",
+      "county": "",
+      "country": "",
+      "postalCode": ""
+    },
+    "administrators": [],
+    "authorizedCaenCodes": [],
+    "onrcStatus": 0,
+    "onrcStatusLabel": "Funcțiune"
+  },
+  "peviitor": null,
+  "summary": {
+    "company": "CLINICA POLISANO SRL",
+    "cif": "15888756",
+    "active": true,
+    "inactiveSince": null,
+    "address": "JUD. SIBIU, MUN. SIBIU, STR. CONSTITUŢIEI, BL.24"
+  }
+}
