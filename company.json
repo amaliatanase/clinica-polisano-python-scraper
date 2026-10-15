@@ -1,5 +1,5 @@
 {
-  "validatedAt": "2026-10-14T10:35:08.952026+00:00",
+  "validatedAt": "2026-10-15T19:38:53.296050+00:00",
   "source": "ANAF",
   "brand": "POLISANO",
   "anaf": {
@@ -56,7 +56,25 @@
     "onrcStatus": 0,
     "onrcStatusLabel": "Funcțiune"
   },
-  "peviitor": null,
+  "peviitor": {
+    "id": "15888756",
+    "company": "CLINICA POLISANO SRL",
+    "brand": "POLISANO",
+    "status": "activ",
+    "location": [
+      "JUD. SIBIU, MUN. SIBIU, STR. CONSTITUŢIEI, BL.24"
+    ],
+    "website": [
+      "https://www.clinicapolisano.ro"
+    ],
+    "career": [
+      "https://www.clinicapolisano.ro/cariere/"
+    ],
+    "lastScraped": "2026-10-15",
+    "scraperFile": "https://github.com/peviitor-scrapers/clinica-polisano-python-scraper/actions/workflows/scrape.yml",
+    "_version_": 1879112924290613248,
+    "_root_": "15888756"
+  },
   "summary": {
     "company": "CLINICA POLISANO SRL",
     "cif": "15888756",
