@@ -10,11 +10,11 @@
 | Location | JUD. SIBIU, MUN. SIBIU, STR. CONSTITUŢIEI, BL.24 |
 | Website | [https://www.clinicapolisano.ro](https://www.clinicapolisano.ro) |
 | Careers | [https://www.clinicapolisano.ro/cariere/](https://www.clinicapolisano.ro/cariere/) |
-| Last Scraped | 2026-10-19 |
+| Last Scraped | 2026-10-20 |
 
 ## Current Job Listings (6)
 
-_Generated: 2026-10-19T12:15:10.510539+00:00_
+_Generated: 2026-10-20T10:58:43.457086+00:00_
 
 ### Medic Medicina Generală
 
