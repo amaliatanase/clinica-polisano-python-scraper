@@ -1,5 +1,5 @@
 {
-  "validatedAt": "2026-10-21T11:14:34.484197+00:00",
+  "validatedAt": "2026-10-22T11:13:47.467164+00:00",
   "source": "ANAF",
   "brand": "POLISANO",
   "anaf": {
@@ -70,9 +70,9 @@
     "career": [
       "https://www.clinicapolisano.ro/cariere/"
     ],
-    "lastScraped": "2026-10-20",
+    "lastScraped": "2026-10-21",
     "scraperFile": "https://github.com/peviitor-scrapers/clinica-polisano-python-scraper/actions/workflows/scrape.yml",
-    "_version_": 1879566102319595520,
+    "_version_": 1879657702644252672,
     "_root_": "15888756"
   },
   "summary": {
